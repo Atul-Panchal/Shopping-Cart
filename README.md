@@ -1,10 +1,12 @@
 # Getting Started with Create React App#Shopping-Cart
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-#Home Page
+
+# Home Page
+
 ![image](https://github.com/Atul-Panchal/Shopping-Cart/assets/83485794/9685b0ff-7b7a-49a9-8880-0a019ae261a3)
 
-#Selected Item
+# Selected Item
 ![image](https://github.com/Atul-Panchal/Shopping-Cart/assets/83485794/f734dbfe-ac51-4959-b52d-c49c49693253)
 
 
